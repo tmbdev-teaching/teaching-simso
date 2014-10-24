@@ -1,5 +1,7 @@
 # Simulation and Self-Organization
 
+## Economics
+
 [Income Distributions](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/10-income-distributions.ipynb)
 
 [Simulating Income Distributions](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/11-income-distributions.ipynb)
@@ -18,6 +20,8 @@
 
 [Private vs Public Investments](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/34-private-vs-public-investments.ipynb)
 
+## Cellular Automata
+
 [Cellular Automata](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/40-cellular-automata.ipynb)
 
 [Homework: The Schelling Model](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/49-HOMEWORK-Schelling.ipynb)
@@ -29,6 +33,8 @@
 [Smooth Life](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/54-smoothlife.ipynb)
 
 [Lattice Gas](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/56-lattice-gas.ipynb)
+
+## Differential Equations
 
 [Differential Equations](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/60-differential-equations.ipynb)
 
@@ -44,6 +50,8 @@
 
 [Reaction Diffusion Models](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/82-reaction-diffusion.ipynb)
 
+## Social Networks and Graphs
+
 [Social Networks](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/90-social-networks.ipynb)
 
 [Random Graphs](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/95-random-graphs.ipynb)
@@ -51,4 +59,3 @@
 [Tests and Evaluations](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/97-tests-and-evaluations.ipynb)
 
 [Homework](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/99-HOMEWORK.ipynb)
-
