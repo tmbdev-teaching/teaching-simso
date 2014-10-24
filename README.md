@@ -1,3 +1,5 @@
+# Simulation and Self-Organization
+
 [Income Distributions](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/10-income-distributions.ipynb)
 
 [Simulating Income Distributions](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/11-income-distributions.ipynb)
@@ -46,7 +48,7 @@
 
 [Random Graphs](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/95-random-graphs.ipynb)
 
-tests and Evaluations[](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/97-tests-and-evaluations.ipynb)
+[Tests and Evaluations](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/97-tests-and-evaluations.ipynb)
 
 [Homework](http://nbviewer.ipython.org/urls/bitbucket.org/tmbdev/teaching-simso/raw/tip/99-HOMEWORK.ipynb)
 
